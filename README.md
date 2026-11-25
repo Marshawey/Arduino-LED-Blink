@@ -9,3 +9,5 @@ In a first place you will need :
 - Wires
 
 Also Arduino IDE is mandatory to flash the Arduino Mega with the code 
+
+# Schematic
