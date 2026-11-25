@@ -6,7 +6,8 @@ In a first place you will need :
 - Arduino Mega
 - Breadboard
 - Resistor ( 220 Ω )
-- Wires ( x3 )
+- Wires ( x2 )
+- LED ( Red )
 
 Also Arduino IDE is mandatory to flash the Arduino Mega with the code 
 
