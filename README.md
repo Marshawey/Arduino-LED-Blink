@@ -5,4 +5,7 @@ First eletronic project made with an Arduino Mega consisting of a blinking LED..
 In a first place you will need :
 - Arduino Mega
 - Breadboard
-- 
+- Resistor
+- Wires
+
+Also Arduino IDE is mandatory to flash the Arduino Mega with the code 
