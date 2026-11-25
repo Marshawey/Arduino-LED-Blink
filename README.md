@@ -12,4 +12,7 @@ Also Arduino IDE is mandatory to flash the Arduino Mega with the code
 
 ## Schematic
 
+<img width="738" height="656" alt="image" src="https://github.com/user-attachments/assets/24cbadd6-fce7-4434-b7dd-f7acb3062a58" />
+
+
 
